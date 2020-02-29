@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Dialog for Alert</string>
+    <string name="alert_text_label">Hello World! Tap to test the alert</string>
+    <string name="alert_button_label">Alert</string>
+    <string name="dialog_title">Alert</string>
+    <string name="dialog_message">Alert Button Pressed</string>
+    <string name="dialog_positive_label">OK</string>
+    <string name="dialog_toast_positive">Pressed OK</string>
+    <string name="dialog_negative_label">Cancel</string>
+    <string name="dialog_toast_negative">Pressed Cancel</string>
+</resources>
